@@ -8,7 +8,7 @@ O objetivo do projeto é aplicar conceitos de **HTML e CSS**, criando um layout 
 
 ## 🖥️ Preview do Projeto
 🔗 Acesse o site publicado:  
-👉 https://ebac-jewelry-gqxw8kvu7-carolinaverna-2227s-projects.vercel.app/
+👉 https://ebac-jewelry.vercel.app/
 
 ---
 
